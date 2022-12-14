@@ -1,2 +1,2 @@
-console.iog ("Hello World")
-console.iog ("I Love Javascript")
+console.log ("Hello World")
+console.log ("I Love Javascript")
