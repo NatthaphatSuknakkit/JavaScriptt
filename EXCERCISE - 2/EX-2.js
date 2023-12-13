@@ -1,1 +1,0 @@
-let furniture = ['Table' , 'Chairs' , 'Conch'];
