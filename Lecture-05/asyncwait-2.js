@@ -8,7 +8,6 @@ async function longRunningOperation() {
     //logic
     return 42;
 }
-
 async function run() {
     //logic
     console.log("Start!!");

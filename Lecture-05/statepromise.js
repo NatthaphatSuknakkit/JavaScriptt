@@ -7,7 +7,6 @@ const promise = new Promise((resolve, reject) => {
         reject(Error("Fatal Error"));
     }
 });
-
 promise.then(
     (res) => console.log(res),
     (err) => console.timeLog(err)
